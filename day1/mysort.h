@@ -1,0 +1,10 @@
+#pragma once
+#include <vector>
+#include <iostream>
+class MySort {
+public:
+	void BubbleSort(std::vector<int>& nums);//√∞≈›≈≈–Ú
+	void BubbleSort1(std::vector<int>& nums);//∏ƒΩ¯√∞≈›≈≈–Ú
+	void SelectSort(std::vector<int>& nums);//—°‘Ò≈≈–Ú
+	void InsertSort(std::vector<int>& nums);//÷±Ω”≤Â»Î≈≈–Ú
+};
